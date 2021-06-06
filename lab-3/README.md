@@ -1,0 +1,1 @@
+Implement Machine Learning Algorithms (kNN, Naïve Bayes, Perceptron) for digits recognition on the MNIST dataset and evaluate their performance.
